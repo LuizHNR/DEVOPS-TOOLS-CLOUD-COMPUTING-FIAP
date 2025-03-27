@@ -5,6 +5,26 @@
   ```bash
   mkdir
 
+- Para entrar no diretorio, o código é:
+  
+  ```bash
+  cd
+
+- Para ver o caminho, o código é:
+  
+  ```bash
+  pwd
+
+- Para ver o histórico, o código é:
+  
+  ```bash
+  history
+
+- Para limpar o histórico, o código é:
+  
+  ```bash
+  history -c
+
 - Para criar o projeto em .jar:
 
   ```bash
