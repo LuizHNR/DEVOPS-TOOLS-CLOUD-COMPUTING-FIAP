@@ -1,4 +1,4 @@
 ## Codigos de Linux
 
 - Para criar diretorios o codigo é:
-``` mkdir
+```mkdir
