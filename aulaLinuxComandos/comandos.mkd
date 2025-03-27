@@ -1,4 +1,11 @@
-## Codigos de Linux
+## Códigos de Linux
 
-- Para criar diretorios o codigo é:
-`mkdir`
+- Para criar diretórios, o código é:
+  
+  ```bash
+  mkdir
+
+- Para criar o projeto em .jar:
+
+  ```bash
+  mvm clean install
