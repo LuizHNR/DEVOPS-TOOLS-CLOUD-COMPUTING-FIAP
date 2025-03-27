@@ -10,6 +10,21 @@
   ```bash
   cd
 
+- Para voltar um diretorio, o código é:
+  
+  ```bash
+  cd ..
+
+- Para mostrar os diretorio, o código é:
+  
+  ```bash
+  ls
+
+- Para voltar para o user, o código é:
+  
+  ```bash
+  cd ~
+
 - Para ver o caminho, o código é:
   
   ```bash
@@ -29,3 +44,8 @@
 
   ```bash
   mvm clean install
+
+- Para mostrar a data, o código é:
+  
+  ```bash
+  date
