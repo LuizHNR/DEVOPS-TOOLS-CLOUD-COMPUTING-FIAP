@@ -1,0 +1,36 @@
+## Códigos de Linux
+
+- Para pesquisar arquivos, o código é:
+  
+  ```bash
+  find
+  
+- Para pesquisar arquivos, o código é:
+  
+  ```bash
+  find
+
+- Para copiar o arquivos e diretorios, o código é:
+  
+  ```bash
+  cp
+  
+- Para mover o arquivos e diretorios, o código é: 
+  
+  ```bash
+  mv 
+
+- Para apagar o arquivos e diretorios, o código é: 
+  
+  ```bash
+  rm
+
+- Para apagar forcadamente o arquivos especificos, o código é: 
+  
+  ```bash
+  -f  
+
+- Para apagar forcadamente o diretorios especificos, o código é: 
+  
+  ```bash
+  -r  

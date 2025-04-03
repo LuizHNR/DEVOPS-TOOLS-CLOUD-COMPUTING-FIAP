@@ -1,0 +1,11 @@
+## Coringas do Linux
+
+- Substituto para qualquer sequencia, o código é:
+  
+  ```bash
+  *
+  
+- Substituto para qualquer caractere unico, o código é:
+  
+  ```bash
+  ?
